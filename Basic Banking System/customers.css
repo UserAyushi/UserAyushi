@@ -1,0 +1,58 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:lightcyan!important;
+}
+/* heading styling start here */
+.heading{
+    text-align:center;
+}
+/* heading styling ends here */
+
+/* navbar styling starts here  */
+.bg-light{
+    background-color:whitesmoke !important;
+}
+
+.navbar-brand img{
+    height: 60px;
+    width: 70px;
+}
+
+.nav-link{
+    color:black!important;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-decoration:none;
+}
+
+.nav-link:hover{
+    background-color:cyan;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+/* navbar styling ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+.btn-info {
+    background-color:lightblue!important;
+    color: black!important;
+    border: 2px solid black !important;
+    border-radius: 30px;
+    font-size: 100%;
+    margin-left: 1px;
+    padding: 10px;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color:navy !important;
+    color:white !important;
+    border: 2px solid black !important;
+    text-decoration: none;
+}
