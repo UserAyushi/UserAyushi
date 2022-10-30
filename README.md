@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UserAyushi
 - 👀 think out of box
-- 🌱 I’m currently studying.
 - 📫 available on linked!
 
 <!---
