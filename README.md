@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UserAyushi
 - 👀 think out of box
-- 📫 available on linked!
+- 📫 available on linkedIn!
 
 <!---
 UserAyushi/UserAyushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
